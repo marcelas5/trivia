@@ -1,0 +1,81 @@
+.quiz-container {
+    background-color: #F5F7FB;
+    width: 950px;
+    height: 790px;
+    top: 112px;
+    left: 694px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 200px;
+    padding-inline: 40px;
+    padding-top: 40px;
+    border-radius: 8px;
+    border: solid #4D5B9E;
+}
+
+.quiz-question {
+    color: #293264;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.quiz-button {
+    height: 40px;
+    width: 230px;
+    border-radius:8px;
+    border: solid #4D5B9E;
+    padding-inline: 10px;
+    margin: 3px;
+}
+
+.correct-answer {
+    background-color: green;
+    height: 40px;
+    width: 230px;
+    border-radius:8px;
+    border: solid #4D5B9E;
+    padding-inline: 10px;
+    margin: 3px;
+}
+
+.incorrect-answer {
+    background-color: red;
+    height: 40px;
+    width: 230px;
+    border-radius:8px;
+    border: solid #4D5B9E;
+    padding-inline: 10px;
+    margin: 3px;
+}
+
+.selected-answer {
+    background-color: lightblue;
+    height: 40px;
+    width: 230px;
+    border-radius:8px;
+    border: solid #4D5B9E;
+    padding-inline: 10px;
+    margin: 3px;
+}
+
+.score-button {
+    height: 40px;
+    width: 180px;
+    border-radius:8px;
+    padding-inline: 10px;
+    color: white;
+    background-color: #4D5B9E;;
+}
+
+.score-text {
+    color: #293264;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.newgame-button {
+    height: 40px;
+    width: 180px;
+    border-radius:8px;
+    padding-inline: 10px;
+    color: white;
+    background-color: #4D5B9E;;
+}
