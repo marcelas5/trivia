@@ -1,8 +1,7 @@
-# React + Vite
+# Trivia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Trivia is a React-based web application that fetches trivia questions and answers from an external API.
 
-Currently, two official plugins are available:
+The app dynamically presents each question, checks the user's answers, and calculates the final score.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It offers an engaging way to test knowledge while practicing API integration and state management in React.
